@@ -1,0 +1,24 @@
+{
+  "name": "sequelize-sscce-11362",
+  "version": "1.0.0",
+  "description": "example repo for sequelize bug https://github.com/sequelize/sequelize/issues/11362",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cheskayang/sequelize-SSCCE-11362.git"
+  },
+  "author": "Cheska Yang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cheskayang/sequelize-SSCCE-11362/issues"
+  },
+  "homepage": "https://github.com/cheskayang/sequelize-SSCCE-11362#readme",
+  "dependencies": {
+    "sequelize": "^5.17.0",
+    "sqlite3": "^4.1.0"
+  }
+}
